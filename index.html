@@ -117,6 +117,7 @@
     <section id="portfolio">
         <div class="container mt-3">
             <h2 class="text-center">Mes projets</h2>
+        </div>
     </section>
 
     <!-- contact section-->
@@ -142,6 +143,34 @@
             </div>
         </div>
     </section>
+
+    <!-- card templates (used by script/script.js) -->
+    <template id="skill-template">
+        <div class="col-lg-4 mt-4">
+            <div class="card skillsText">
+                <div class="card-body">
+                    <img src="" alt="" />
+                    <h3 class="card-title mt-3"></h3>
+                    <p class="card-text mt-3"></p>
+                </div>
+            </div>
+        </div>
+    </template>
+
+    <template id="portfolio-template">
+        <div class="col-lg-4 mt-4">
+            <div class="card portfolioContent">
+                <img class="card-img-top" src="" alt="" style="width:100%">
+                <div class="card-body">
+                    <h3 class="card-title"></h3>
+                    <p class="card-text"></p>
+                    <div class="text-center">
+                        <a href="#" class="btn btn-success">Lien</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </template>
 
     <!-- load javascript after loading all html content -->
     <script src="script/script.js"></script>
