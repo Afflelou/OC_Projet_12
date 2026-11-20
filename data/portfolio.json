@@ -1,20 +1,38 @@
 [
     {
-        "image": "image1.png",
-        "title": "Booki",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "eco-bliss-bath.webp",
+        "title": "Eco-Bliss-Bath",
+        "text": "Automatisation de tests E2E et d’API avec Cypress (connexion, panier, produits, sécurité), smoke tests et bilan de campagne de tests",
+        "link": "https://github.com/Afflelou/OC_Projet_10"
+    },
+    {
+        "image": "strategie-recette.webp",
+        "title": "Stratégie de test & recette",
+        "text": "Revue des exigences, définition d’une stratégie de test et rédaction d’un cahier de recette complet",
         "link": "#"
     },
     {
-        "image": "image2.png",
-        "title": "Mon Vieux grimoire",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "image": "724-events.webp",
+        "title": "724-Events",
+        "text": "Débogage d’un site React existant, correction des anomalies et rédaction d’un bilan de campagne de tests",
         "link": "#"
     },
     {
-        "image": "image3.png",
+        "image": "jse-avocats.webp",
+        "title": "JSE-Avocats",
+        "text": "Recette d’un site WordPress : rédaction et exécution d’un cahier de recette, suivi des anomalies dans Notion",
+        "link": "#"
+    },
+    {
+        "image": "kasa.webp",
         "title": "Kasa",
-        "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "text": "Développement d’une application de location en React, avec tests unitaires des composants",
+        "link": "https://github.com/Afflelou/OC_Projet_8"
+    },
+    {
+        "image": "menu-maker.webp",
+        "title": "Menu Maker",
+        "text": "Gestion de projet : rédaction des spécifications techniques, organisation en kanban et veille technologique",
         "link": "#"
     }
 ]

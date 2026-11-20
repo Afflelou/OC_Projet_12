@@ -1,32 +1,57 @@
 [
     {
-        "image": "html-css.jpg",
+        "image": "html-css.webp",
         "title": "HTML - CSS",
         "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS"
     },
     {
-        "image": "js.jpg",
+        "image": "js.webp",
         "title": "javascript",
         "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires"
     },
     {
-        "image": "react.jpg",
+        "image": "react.webp",
         "title": "React",
         "text": "Création d’applications React, création de composants et manipulation de leur état"
     },
     {
-        "image": "gestion-de-projet.png",
+        "image": "gestion-de-projet.webp",
         "title": "Gestion de projet",
         "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet"
     },
     {
-        "image": "optimisation-et-debug.png",
+        "image": "optimisation-et-debug.webp",
         "title": "Optimisation et debug",
         "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne"
     },
     {
-        "image": "test.png",
-        "title": "Test",
-        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API"
+        "image": "test.webp",
+        "title": "Tests manuels & recette",
+        "text": "Tests exploratoires et fonctionnels, rédaction de plans de test et de cahiers de recette, exécution des campagnes de recette et validation des critères d’acceptation"
+    },
+    {
+        "image": "automatisation.webp",
+        "title": "Automatisation des tests",
+        "text": "Écriture et maintenance de tests E2E avec Playwright et Cypress, Page Object Model, gestion des tests instables (flaky)"
+    },
+    {
+        "image": "api.webp",
+        "title": "Tests d’API",
+        "text": "Tests de services REST avec Postman et Playwright, validation des contrats, des codes de statut et des cas d’erreur"
+    },
+    {
+        "image": "git-ci-cd.webp",
+        "title": "Git & CI/CD",
+        "text": "Versionnement avec Git et GitHub, revues de code, intégration des tests dans des pipelines GitHub Actions"
+    },
+    {
+        "image": "anomalies.webp",
+        "title": "Gestion des anomalies",
+        "text": "Rédaction de rapports de bugs reproductibles, priorisation et suivi des anomalies dans Jira ou Notion"
+    },
+    {
+        "image": "agile.webp",
+        "title": "Méthodes Agiles",
+        "text": "Travail en sprints Scrum, définition des critères d’acceptation, participation aux cérémonies et approche shift-left"
     }
 ]
