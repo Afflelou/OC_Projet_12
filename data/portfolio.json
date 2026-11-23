@@ -9,19 +9,19 @@
         "image": "strategie-recette.webp",
         "title": "Stratégie de test & recette",
         "text": "Revue des exigences, définition d’une stratégie de test et rédaction d’un cahier de recette complet",
-        "link": "#"
+        "link": "https://github.com/Afflelou/OC_Projet_11"
     },
     {
         "image": "724-events.webp",
         "title": "724-Events",
         "text": "Débogage d’un site React existant, correction des anomalies et rédaction d’un bilan de campagne de tests",
-        "link": "#"
+        "link": "https://github.com/Afflelou/OC_Projet_5"
     },
     {
         "image": "jse-avocats.webp",
         "title": "JSE-Avocats",
         "text": "Recette d’un site WordPress : rédaction et exécution d’un cahier de recette, suivi des anomalies dans Notion",
-        "link": "#"
+        "link": "https://www.notion.so/2819162bc0c3808d88ffe59546754fd9?v=2819162bc0c381f19106000c45cd11de&source=copy_link"
     },
     {
         "image": "kasa.webp",
@@ -33,6 +33,6 @@
         "image": "menu-maker.webp",
         "title": "Menu Maker",
         "text": "Gestion de projet : rédaction des spécifications techniques, organisation en kanban et veille technologique",
-        "link": "#"
+        "link": "https://github.com/Afflelou/OC_Projet_9"
     }
 ]
